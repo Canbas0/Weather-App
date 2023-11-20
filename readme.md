@@ -6,7 +6,7 @@ HTML, CSS ve Javascript Kullanılarak Gerçekleştirilen Bu Hava Durumu Uygulama
 - HTML, CSS ve Javascript Kullanılarak Gerçekleştirimesi.
 - Kolay Anlaşılabilir Bir Arayüze Sahip Olması.
 
-### İndirme Uygulama
+### Git ile Klonlama ve Uygulama
 ``` bash
-    git clone 
+    git clone https://github.com/Canbas0/Weather-App.git
 ```
